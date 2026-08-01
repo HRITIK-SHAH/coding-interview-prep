@@ -19,7 +19,8 @@ public:
 
         for(int i = s.length() - 1 ;;i--){
             char c = s[i];
-            if( c == '*'){ m += 1;
+            if( c == '*'){
+                 m += 1;
             }else if ( c == '#'){
                 m /=2 ;
                 if( k >= m){
