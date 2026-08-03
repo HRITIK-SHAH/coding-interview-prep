@@ -22,8 +22,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
+## String
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
