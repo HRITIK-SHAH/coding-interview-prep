@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1009-complement-of-base-10-integer) |
+## Binary Search
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Greedy
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
