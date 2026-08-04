@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3731-find-missing-elements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
+| [3731-find-missing-elements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
