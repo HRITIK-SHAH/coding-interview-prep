@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
+| [1622-fancy-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
@@ -92,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3731-find-missing-elements) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1622-fancy-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1622-fancy-sequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
