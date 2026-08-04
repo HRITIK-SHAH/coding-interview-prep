@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3731-find-missing-elements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Bit Manipulation
