@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/HRITIK-SHAH)
+A collection of LeetCode questions to ace the coding interview! - Created using [GitHub](https://github.com/HRITIK-SHAH)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
