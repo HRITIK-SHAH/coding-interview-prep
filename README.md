@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3838-weighted-word-mapping](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1622-fancy-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
