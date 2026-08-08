@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3838-weighted-word-mapping](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
