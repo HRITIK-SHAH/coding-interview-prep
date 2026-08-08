@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Game Theory
 |  |
 | ------- |
