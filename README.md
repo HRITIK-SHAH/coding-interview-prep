@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3643-flip-square-submatrix-vertically) |
 | [3731-find-missing-elements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3838-weighted-word-mapping) |
 ## Matrix
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3643-flip-square-submatrix-vertically](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
