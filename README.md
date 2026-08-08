@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1929-concatenation-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3838-weighted-word-mapping](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3838-weighted-word-mapping) |
 ## Math
