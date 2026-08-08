@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1406-stone-game-iii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HRITIK-SHAH/coding-interview-prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
